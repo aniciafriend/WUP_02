@@ -29,6 +29,9 @@ veggy <- cabbages
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+We looked at the variables and it looked like we had numerical variables which is the variable thats going to be how much Vitc (this is a numerical variable) is contained between the two different cultivation methods. Those cultivation methods are c39 and c52 methods and those are the categorical variable. 
+
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
